@@ -1,0 +1,2 @@
+d:\user\documents\visual studio 2013\Projects\XMLBasics\XMLBasics\bin\Debug\XMLBasics.exe.config
+d:\user\documents\visual studio 2013\Projects\XMLBasics\XMLBasics\obj\Debug\XMLBasics.csprojResolveAssemblyReference.cache

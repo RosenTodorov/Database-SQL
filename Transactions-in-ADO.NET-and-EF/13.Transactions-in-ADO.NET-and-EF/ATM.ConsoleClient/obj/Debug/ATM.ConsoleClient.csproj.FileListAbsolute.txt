@@ -1,0 +1,14 @@
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\ATM.ConsoleClient.exe.config
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\ATM.ConsoleClient.exe
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\ATM.ConsoleClient.pdb
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\EntityFramework.dll
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\EntityFramework.xml
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\obj\Debug\ATM.ConsoleClient.exe
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\obj\Debug\ATM.ConsoleClient.pdb
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\ATM.Data.dll
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\ATM.Models.dll
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\ATM.Data.pdb
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\bin\Debug\ATM.Models.pdb
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.ConsoleClient\obj\Debug\ATM.ConsoleClient.csprojResolveAssemblyReference.cache

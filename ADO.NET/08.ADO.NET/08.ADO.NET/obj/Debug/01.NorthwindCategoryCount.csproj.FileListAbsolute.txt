@@ -4,3 +4,6 @@ D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\08.ADO.NET\bin\Debug\08
 D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\08.ADO.NET\obj\Debug\01.NorthwindCategoryCount.csprojResolveAssemblyReference.cache
 D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\08.ADO.NET\obj\Debug\08.ADO.NET.exe
 D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\08.ADO.NET\obj\Debug\08.ADO.NET.pdb
+C:\Users\user\Desktop\Telerik\Database & SQL\ADO.NET\08.ADO.NET\08.ADO.NET\bin\Debug\08.ADO.NET.exe.config
+C:\Users\user\Desktop\Telerik\Database & SQL\ADO.NET\08.ADO.NET\08.ADO.NET\obj\Debug\08.ADO.NET.exe
+C:\Users\user\Desktop\Telerik\Database & SQL\ADO.NET\08.ADO.NET\08.ADO.NET\obj\Debug\08.ADO.NET.pdb

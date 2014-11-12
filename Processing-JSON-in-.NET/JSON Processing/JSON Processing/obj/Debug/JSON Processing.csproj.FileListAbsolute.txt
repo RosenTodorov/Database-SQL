@@ -1,0 +1,9 @@
+d:\user\documents\visual studio 2013\Projects\JSON Processing\JSON Processing\bin\Debug\JSON Processing.exe.config
+d:\user\documents\visual studio 2013\Projects\JSON Processing\JSON Processing\bin\Debug\JSON Processing.exe
+d:\user\documents\visual studio 2013\Projects\JSON Processing\JSON Processing\bin\Debug\JSON Processing.pdb
+d:\user\documents\visual studio 2013\Projects\JSON Processing\JSON Processing\bin\Debug\Newtonsoft.Json.dll
+d:\user\documents\visual studio 2013\Projects\JSON Processing\JSON Processing\bin\Debug\Newtonsoft.Json.xml
+d:\user\documents\visual studio 2013\Projects\JSON Processing\JSON Processing\obj\Debug\JSON Processing.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\JSON Processing\JSON Processing\obj\Debug\JSON Processing.exe
+d:\user\documents\visual studio 2013\Projects\JSON Processing\JSON Processing\obj\Debug\JSON Processing.pdb
+d:\user\documents\visual studio 2013\Projects\JSON Processing\JSON Processing\bin\Debug\CrawlerWebClient.Standard.dll

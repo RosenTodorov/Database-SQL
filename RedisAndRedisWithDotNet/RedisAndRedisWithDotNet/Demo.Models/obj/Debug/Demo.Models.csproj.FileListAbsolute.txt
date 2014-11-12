@@ -1,0 +1,4 @@
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\Demo.Models\bin\Debug\Demo.Models.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\Demo.Models\bin\Debug\Demo.Models.pdb
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\Demo.Models\obj\Debug\Demo.Models.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\Demo.Models\obj\Debug\Demo.Models.pdb

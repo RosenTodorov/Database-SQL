@@ -1,0 +1,12 @@
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\bin\Debug\ATM.Data.dll.config
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\bin\Debug\ATM.Data.dll
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\bin\Debug\ATM.Data.pdb
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\bin\Debug\ATM.Models.dll
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\bin\Debug\EntityFramework.dll
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\bin\Debug\ATM.Models.pdb
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\bin\Debug\EntityFramework.xml
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\obj\Debug\ATM.Data.csprojResolveAssemblyReference.cache
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\obj\Debug\ATM.Data.dll
+E:\Projects\Telerik\Databases\HW\13. Transactions-in-ADO.NET-and-EF\13.Transactions-in-ADO.NET-and-EF\ATM.Data\obj\Debug\ATM.Data.pdb

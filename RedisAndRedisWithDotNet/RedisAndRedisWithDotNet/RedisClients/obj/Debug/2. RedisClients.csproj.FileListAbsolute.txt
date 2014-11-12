@@ -1,0 +1,34 @@
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\RedisClients.exe.config
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\RedisClients.exe
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\RedisClients.pdb
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\Demo.Models.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Interfaces.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Redis.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\Demo.Models.pdb
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Redis.xml
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\obj\Debug\2. RedisClients.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\obj\Debug\RedisClients.exe
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\obj\Debug\RedisClients.pdb
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Common.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Text.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Common.xml
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Text.xml
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\Extensions.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisClients\bin\Debug\Extensions.pdb
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\RedisClients.exe.config
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\obj\Debug\RedisClients.exe
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\obj\Debug\RedisClients.pdb
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\obj\Debug\2. RedisClients.csprojResolveAssemblyReference.cache
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\RedisClients.exe
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\RedisClients.pdb
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\Demo.Models.dll
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\Extensions.dll
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Common.dll
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Interfaces.dll
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Redis.dll
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Text.dll
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\Demo.Models.pdb
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\Extensions.pdb
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Common.xml
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Redis.xml
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisClients\bin\Debug\ServiceStack.Text.xml

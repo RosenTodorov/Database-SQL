@@ -1,0 +1,18 @@
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\obj\Debug\1. RedisAndDotNet.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\RedisAndDotNet.exe.config
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\RedisAndDotNet.exe
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\RedisAndDotNet.pdb
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\Extensions.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\ServiceStack.Common.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\ServiceStack.Interfaces.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\ServiceStack.Redis.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\ServiceStack.Text.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\Extensions.pdb
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\ServiceStack.Common.xml
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\ServiceStack.Redis.xml
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\ServiceStack.Text.xml
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\obj\Debug\RedisAndDotNet.exe
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\RedisAndDotNet\obj\Debug\RedisAndDotNet.pdb
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisAndDotNet\bin\Debug\RedisAndDotNet.exe.config
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisAndDotNet\obj\Debug\RedisAndDotNet.exe
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\RedisAndDotNet\obj\Debug\RedisAndDotNet.pdb

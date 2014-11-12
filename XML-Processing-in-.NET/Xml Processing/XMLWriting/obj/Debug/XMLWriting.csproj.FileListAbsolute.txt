@@ -1,0 +1,5 @@
+d:\user\documents\visual studio 2013\Projects\Xml Processing\XMLWriting\bin\Debug\XMLWriting.exe.config
+d:\user\documents\visual studio 2013\Projects\Xml Processing\XMLWriting\bin\Debug\XMLWriting.exe
+d:\user\documents\visual studio 2013\Projects\Xml Processing\XMLWriting\bin\Debug\XMLWriting.pdb
+d:\user\documents\visual studio 2013\Projects\Xml Processing\XMLWriting\obj\Debug\XMLWriting.exe
+d:\user\documents\visual studio 2013\Projects\Xml Processing\XMLWriting\obj\Debug\XMLWriting.pdb

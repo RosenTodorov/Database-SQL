@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\Xml Processing\Xml Processing\bin\Debug\Xml Processing.exe.config
+d:\user\documents\visual studio 2013\Projects\Xml Processing\Xml Processing\bin\Debug\Xml Processing.exe
+d:\user\documents\visual studio 2013\Projects\Xml Processing\Xml Processing\bin\Debug\Xml Processing.pdb
+d:\user\documents\visual studio 2013\Projects\Xml Processing\Xml Processing\obj\Debug\Xml Processing.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\Xml Processing\Xml Processing\obj\Debug\Xml Processing.exe
+d:\user\documents\visual studio 2013\Projects\Xml Processing\Xml Processing\obj\Debug\Xml Processing.pdb

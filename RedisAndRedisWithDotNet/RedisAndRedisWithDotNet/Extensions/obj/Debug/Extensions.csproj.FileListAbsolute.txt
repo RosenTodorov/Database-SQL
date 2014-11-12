@@ -1,0 +1,10 @@
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\Extensions\bin\Debug\Extensions.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\Extensions\bin\Debug\Extensions.pdb
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\Extensions\obj\Debug\Extensions.dll
+C:\Dropbox\Workspace\Databases\RedisAndRedisWithDotNet\Extensions\obj\Debug\Extensions.pdb
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\Extensions\bin\Debug\Extensions.dll
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\Extensions\bin\Debug\Extensions.pdb
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\Extensions\obj\Debug\Extensions.dll
+E:\Dropbox\Telerik Academy\databases\2014\16. Redis-and-Redis-with-.NET\RedisAndRedisWithDotNet\Extensions\obj\Debug\Extensions.pdb
