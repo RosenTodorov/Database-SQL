@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\02.GetsNameAndDescriptionOfCategories\bin\Debug\02.GetsNameAndDescriptionOfCategories.exe.config
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\02.GetsNameAndDescriptionOfCategories\bin\Debug\02.GetsNameAndDescriptionOfCategories.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\02.GetsNameAndDescriptionOfCategories\bin\Debug\02.GetsNameAndDescriptionOfCategories.pdb
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\02.GetsNameAndDescriptionOfCategories\obj\Debug\02.GetsNameAndDescriptionOfCategories.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\02.GetsNameAndDescriptionOfCategories\obj\Debug\02.GetsNameAndDescriptionOfCategories.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\02.GetsNameAndDescriptionOfCategories\obj\Debug\02.GetsNameAndDescriptionOfCategories.pdb

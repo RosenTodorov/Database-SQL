@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\05.ImageRetriever\bin\Debug\05.ImageRetriever.exe.config
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\05.ImageRetriever\bin\Debug\05.ImageRetriever.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\05.ImageRetriever\bin\Debug\05.ImageRetriever.pdb
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\05.ImageRetriever\obj\Debug\05.ImageRetriever.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\05.ImageRetriever\obj\Debug\05.ImageRetriever.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\05.ImageRetriever\obj\Debug\05.ImageRetriever.pdb

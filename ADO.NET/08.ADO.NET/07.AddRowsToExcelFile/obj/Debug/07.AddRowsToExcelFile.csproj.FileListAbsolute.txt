@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\07.AddRowsToExcelFile\bin\Debug\07.AddRowsToExcelFile.exe.config
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\07.AddRowsToExcelFile\bin\Debug\07.AddRowsToExcelFile.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\07.AddRowsToExcelFile\bin\Debug\07.AddRowsToExcelFile.pdb
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\07.AddRowsToExcelFile\obj\Debug\07.AddRowsToExcelFile.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\07.AddRowsToExcelFile\obj\Debug\07.AddRowsToExcelFile.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\07.AddRowsToExcelFile\obj\Debug\07.AddRowsToExcelFile.pdb

@@ -1,0 +1,1 @@
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\10. SQLiteBookDBOperations\bin\Debug\_10.SQLiteBookDBOperations.exe.config

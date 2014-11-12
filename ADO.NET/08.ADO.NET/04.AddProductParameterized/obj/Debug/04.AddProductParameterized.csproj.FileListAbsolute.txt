@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\04.AddProductParameterized\bin\Debug\04.AddProductParameterized.exe.config
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\04.AddProductParameterized\bin\Debug\04.AddProductParameterized.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\04.AddProductParameterized\bin\Debug\04.AddProductParameterized.pdb
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\04.AddProductParameterized\obj\Debug\04.AddProductParameterized.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\04.AddProductParameterized\obj\Debug\04.AddProductParameterized.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\04.AddProductParameterized\obj\Debug\04.AddProductParameterized.pdb

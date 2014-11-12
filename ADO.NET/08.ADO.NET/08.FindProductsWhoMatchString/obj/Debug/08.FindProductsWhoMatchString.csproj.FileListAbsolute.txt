@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\08.FindProductsWhoMatchString\bin\Debug\08.FindProductsWhoMatchString.exe.config
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\08.FindProductsWhoMatchString\bin\Debug\08.FindProductsWhoMatchString.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\08.FindProductsWhoMatchString\bin\Debug\08.FindProductsWhoMatchString.pdb
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\08.FindProductsWhoMatchString\obj\Debug\08.FindProductsWhoMatchString.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\08.FindProductsWhoMatchString\obj\Debug\08.FindProductsWhoMatchString.pdb

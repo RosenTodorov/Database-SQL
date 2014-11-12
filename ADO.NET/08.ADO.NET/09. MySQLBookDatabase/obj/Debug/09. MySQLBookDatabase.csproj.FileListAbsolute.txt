@@ -1,0 +1,7 @@
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\09. MySQLBookDatabase\bin\Debug\_09.MySQLBookDatabase.exe.config
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\09. MySQLBookDatabase\bin\Debug\_09.MySQLBookDatabase.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\09. MySQLBookDatabase\bin\Debug\_09.MySQLBookDatabase.pdb
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\09. MySQLBookDatabase\bin\Debug\MySql.Data.dll
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\09. MySQLBookDatabase\obj\Debug\09. MySQLBookDatabase.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\09. MySQLBookDatabase\obj\Debug\_09.MySQLBookDatabase.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\09. MySQLBookDatabase\obj\Debug\_09.MySQLBookDatabase.pdb

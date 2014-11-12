@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\06. ReadsXlsxAndDisplays\bin\Debug\_06.ReadsXlsxAndDisplays.exe.config
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\06. ReadsXlsxAndDisplays\bin\Debug\_06.ReadsXlsxAndDisplays.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\06. ReadsXlsxAndDisplays\bin\Debug\_06.ReadsXlsxAndDisplays.pdb
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\06. ReadsXlsxAndDisplays\obj\Debug\06. ReadsXlsxAndDisplays.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\06. ReadsXlsxAndDisplays\obj\Debug\_06.ReadsXlsxAndDisplays.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\06. ReadsXlsxAndDisplays\obj\Debug\_06.ReadsXlsxAndDisplays.pdb

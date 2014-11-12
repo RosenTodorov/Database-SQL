@@ -1,0 +1,5 @@
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\CategoryNameAndContainingProducts\bin\Debug\CategoryNameAndContainingProducts.exe.config
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\CategoryNameAndContainingProducts\obj\Debug\CategoryNameAndContainingProducts.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\CategoryNameAndContainingProducts\obj\Debug\CategoryNameAndContainingProducts.pdb
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\CategoryNameAndContainingProducts\bin\Debug\CategoryNameAndContainingProducts.exe
+D:\user\Documents\Visual Studio 2013\Projects\08.ADO.NET\CategoryNameAndContainingProducts\bin\Debug\CategoryNameAndContainingProducts.pdb
